@@ -5,5 +5,4 @@ shit
 Starting to learn about Git
 
 Hello from Sheldon.
-
 Here are some more changes
