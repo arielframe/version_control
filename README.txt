@@ -1,4 +1,5 @@
+gobbledeegook
 I learned some cool things about Python today!
 Like [::-1] reverses
-I learned about functions
+shit
 Starting to learn about Git
